@@ -1,3 +1,9 @@
+# roadcommand-ai-ops
+
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/roadcommand-ai-ops)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/roadcommand-ai-ops)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
 # Roadcommand Ai Ops
 
 RoadCommand - AI Operations Platform. API layer above Google/OpenAI/Anthropic. Enables companies to operate exclusively by AI. Manages model memory and continuity.
